@@ -62,5 +62,3 @@ This project demonstrates:
 * Event Handling
 
 ---
-
-**Built with Java ☕**
