@@ -33,5 +33,5 @@ javac Bentuk.java BujurSangkar.java Lingkaran.java Silinder.java MainBentuk.java
 Execute the main class to see the output. *(Note: Even though the file is named `Main.java`, the class inside is named `Main`, so you must use that name to run it)*:
 
 ```bash
-java MainBentuk
+java Main
 ```
