@@ -36,5 +36,3 @@ The goal is to click the button displaying "MOLE" to increase your score. The mo
 - **JLabel:** Displays title and score
 - **GridLayout:** Arranges the game board
 - **ActionListener:** Handles button clicks
-
--
