@@ -72,7 +72,7 @@ buttons[i].addActionListener(new ActionListener() {
 
 ## Output
 
-Screenshots of the program execution results are saved in the `_output/` folder, with details as follows:
+Screenshots of the program execution results:
 
 ### 1. Initial View
 <img width="421" height="492" alt="Screenshot 2026-11-21 124740" src="https://github.com/user-attachments/assets/05dd1b57-f4a7-4b1c-a31e-5324f49c3587" />
